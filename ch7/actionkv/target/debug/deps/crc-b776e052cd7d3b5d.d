@@ -1,0 +1,14 @@
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/deps/crc-b776e052cd7d3b5d.rmeta: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/crc16.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/crc32.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/crc64.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/util.rs /Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/build/crc-1a7ac09f5c2eeb19/out/crc16_constants.rs /Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/build/crc-1a7ac09f5c2eeb19/out/crc32_constants.rs /Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/build/crc-1a7ac09f5c2eeb19/out/crc64_constants.rs
+
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/deps/crc-b776e052cd7d3b5d.d: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/crc16.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/crc32.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/crc64.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/util.rs /Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/build/crc-1a7ac09f5c2eeb19/out/crc16_constants.rs /Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/build/crc-1a7ac09f5c2eeb19/out/crc32_constants.rs /Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/build/crc-1a7ac09f5c2eeb19/out/crc64_constants.rs
+
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/lib.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/crc16.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/crc32.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/crc64.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-1.8.1/src/util.rs:
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/build/crc-1a7ac09f5c2eeb19/out/crc16_constants.rs:
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/build/crc-1a7ac09f5c2eeb19/out/crc32_constants.rs:
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/build/crc-1a7ac09f5c2eeb19/out/crc64_constants.rs:
+
+# env-dep:OUT_DIR=/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch7/actionkv/target/debug/build/crc-1a7ac09f5c2eeb19/out
