@@ -1,0 +1,11 @@
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/tinyvec-93506d02ea0b4a00.rmeta: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array/generated_impl.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec_drain.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/slicevec.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/tinyvec.rs
+
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/tinyvec-93506d02ea0b4a00.d: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array/generated_impl.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec_drain.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/slicevec.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/tinyvec.rs
+
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/lib.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array/generated_impl.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec_drain.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/slicevec.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/tinyvec.rs:

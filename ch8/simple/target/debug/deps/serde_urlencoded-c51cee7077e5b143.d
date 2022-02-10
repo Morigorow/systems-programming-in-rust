@@ -1,0 +1,11 @@
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/serde_urlencoded-c51cee7077e5b143.rmeta: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs
+
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/serde_urlencoded-c51cee7077e5b143.d: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs
+
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs:

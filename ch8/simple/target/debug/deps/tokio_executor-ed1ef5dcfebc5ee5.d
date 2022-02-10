@@ -1,0 +1,11 @@
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/tokio_executor-ed1ef5dcfebc5ee5.rmeta: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/enter.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/error.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/executor.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/global.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/park.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/typed.rs
+
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/tokio_executor-ed1ef5dcfebc5ee5.d: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/enter.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/error.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/executor.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/global.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/park.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/typed.rs
+
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/lib.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/enter.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/error.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/executor.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/global.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/park.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/typed.rs:

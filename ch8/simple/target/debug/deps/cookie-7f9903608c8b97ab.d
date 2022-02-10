@@ -1,0 +1,12 @@
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/cookie-7f9903608c8b97ab.rmeta: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs
+
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/libcookie-7f9903608c8b97ab.rlib: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs
+
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/cookie-7f9903608c8b97ab.d: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs
+
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs:

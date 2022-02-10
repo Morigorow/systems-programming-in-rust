@@ -1,0 +1,13 @@
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/net2-988af8b3d50eed9e.rmeta: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs
+
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/net2-988af8b3d50eed9e.d: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs
+
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs:

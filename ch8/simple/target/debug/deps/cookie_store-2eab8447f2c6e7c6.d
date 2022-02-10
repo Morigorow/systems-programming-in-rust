@@ -1,0 +1,11 @@
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/cookie_store-2eab8447f2c6e7c6.rmeta: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs
+
+/Users/morizoo/Projects/Rust_Projects/rust-in-action/ch8/simple/target/debug/deps/cookie_store-2eab8447f2c6e7c6.d: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs
+
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs:
